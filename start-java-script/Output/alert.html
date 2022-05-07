@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Alert</title>
+</head>
+<body>
+    <h2>output with Alert</h2>
+    <button onclick='handleClick()'>Click me to show window.alert</button>
+    <button onclick='handleClick2()'>Click me to show alert</button>
+    
+    <script>
+        const handleClick = () => {
+            var message = 'this is window.alert window';
+            return window.alert(message);
+        }
+
+
+        // You can skip the window keyword.
+        const handleClick2 = () => {
+            var message = 'this is alert window';
+            return alert(message);
+        }
+    </script>
+
+</body>
+</html>

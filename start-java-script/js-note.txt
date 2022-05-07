@@ -1,0 +1,10 @@
+JavaScript was invented by Brendan Eich in 1995.
+ECMAScript is the official name of the language.
+
+
+A computer program is a list of "instructions" to be "executed" by a computer.
+In a programming language, these programming instructions are called statements.
+
+
+
+=> JavaScript is Case Sensitive

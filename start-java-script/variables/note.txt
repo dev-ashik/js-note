@@ -1,0 +1,71 @@
+Values
+
+=> The javaScript syntax defines two  types of Values
+    1. Fixed Values (fixed values are called 'Literals'.)
+    2. Variable values (Variable values are called 'Variables'.)
+
+
+
+=> javaScript use the keywords var, let and const to declare variables.
+
+
+=> 4 ways to declare a jabaScript variable.
+    1. var (The var keyword is used in all JavaScript code from 1995 to 2015.)
+    2. let  ( If you think the value of the variable can change, use let. The let and const keywords were added to JavaScript in 2015.)
+    3. const (If you want a general rule: always declare variables with const.)
+    4. use nothing
+
+Identifiers
+    All JavaScript variables must be identified with unique names. These unique names are called identifiers.
+
+    The general rules for constructing names for variables (unique identifiers) are:
+        1. Names can contain letters, digits, underscores, and dollar signs.
+        2. Names must begin with a letter
+        3. Names can also begin with $ and _ (but we will not use it in this tutorial)
+        4. Names are case sensitive (y and Y are different variables)
+        5. Reserved words (like JavaScript keywords) cannot be used as names
+
+
+=> A variable declared without a value will have the value undefined.
+
+
+*** let ***
+
+=> Redeclared
+    let (Variables defined with let cannot be Redeclared.)
+    but Redeclaring a variable with let, in another block, IS allowed:
+    
+    let x = 2;    // Allowed
+
+    {
+    let x = 3;    // Allowed
+    }
+
+    {
+    let x = 4;    // Allowed
+    }
+
+
+    var
+    With var you can Redeclared
+
+=> let and const Block Scope
+    {
+    let x = 2;
+    }
+    // x can NOT be used here
+
+=> var keyword Global Scope
+    {
+    var x = 2;
+    }
+    // x CAN be used here
+
+
+
+
+***** const *****
+    variables defined withconst can't be redeclaared.
+    Variables defined with const cannot be Reassigned.
+    Variables defined with const have Block Scope.
+

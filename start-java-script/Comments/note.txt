@@ -1,0 +1,7 @@
+Single line comment
+    single line comment start with //(double slase)
+
+
+Multi-line comments
+    multi-line comments start with /* and end with */
+    

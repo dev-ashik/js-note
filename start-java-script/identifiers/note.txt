@@ -1,0 +1,6 @@
+Identifiers are JavaScript names.
+
+A JavaScript name must begin with:
+    1. A letter (A-Z or a-z)
+    2. A dollar sign ($)
+    3. Or an underscore (_)
