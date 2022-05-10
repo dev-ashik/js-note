@@ -1,0 +1,9 @@
+1. 
+    // more about events
+    // https://www.w3schools.com/jsref/dom_obj_event.asp
+
+
+    // You can assign your own event handler functions to HTML elements
+
+
+2. primitive values, literals values

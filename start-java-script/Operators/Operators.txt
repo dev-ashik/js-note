@@ -1,0 +1,84 @@
+
+1. Arithmetic Operators 
+
+    Operator  |     Description
+    ____________________________________________
+       +      |     addition
+       -      |     Subtraction
+       *      |     Multiplication
+       **     |     Exponentiation (es 2016)
+       /      |     division
+       %      |     Modulus(division Remainder)
+       ++     |     Inrement
+       --     |     Decrement
+    ____________________________________________
+
+
+2. Assignment Operator 
+
+     Operator |    Example    |    Same as  
+    ____________________________________________
+       =      |     x = y     |      
+       +=     |     x += y    |   x = x + y
+       -=     |     x -= y    | x = x - y
+       *=     |     x *= y    | x = x * y
+       /=     |     x /= y    | x = x / y
+       %=     |     x %= y    | x = x % y
+       **y    |     x **= y   | x = x ** y 
+    ____________________________________________
+
+
+3. String Operators (concatenate)
+
+     Operator |     Example      
+    ___________________________________________________
+       +      |     name = firstName + " " + lastName
+       +=     |     name = "mr " += name 
+    ___________________________________________________
+
+4. Comparison Operator 
+
+    Operator  |     Description
+    __________________________________________________
+       ==     |     equal to
+       ===    |     equal value and equal type
+       !=     |     not equal
+       !==    |     not equal value or not equal type
+       >      |     gater than
+       <      |     les than
+       >=     |     greater than or equal to
+       <=     |     lessthan or equal to
+       ?      |     Ternary operator
+    __________________________________________________
+
+5. Logical Operatiors
+
+     Operator  |     Description
+    __________________________________________________
+       &&      |     Logical and
+       ||      |     logical or
+       !       |     logical not
+    __________________________________________________
+
+6. Type Operators
+
+     Operator  |     Description
+    __________________________________________________
+    typeof      |     Return the type of a variable
+    instanceof  |     Returns true if an object is an instance of an object type
+    __________________________________________________
+
+
+7. Bitwist Operatiors 
+
+     Operator |    description          | example  
+    ____________________________________________
+       &      |    AND                  | 5 & 1   
+       |      |    OR                   | 5 | 1
+       ~      |    NOT                  | ~ 5
+       ^      |    XOR                  | 5 ^ 1
+       <<     |    left shift           | 5 << 1
+       >>     |    right shift          | 5 >> 1
+       >>>    |    unsigned right shift | 5 >>> 1 
+    ____________________________________________
+

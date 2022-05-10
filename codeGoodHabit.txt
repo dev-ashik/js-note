@@ -1,0 +1,12 @@
+1. use ;
+2. For best readability, programmers often like to avoid code lines longer than 80 characters.
+3. If a JavaScript statement does not fit on one line, the best place to break it is after an operator:
+4. You can also break up a code line within a text string with a single backslash: 
+    N.B: The \ method is not the preferred method. It might not have universal support.
+Some browsers do not allow spaces behind the \ character.
+    document.getElementById("demo").innerHTML = "Hello \
+    Dolly!";
+5. A safer way to break up a string, is to use string addition:
+    document.getElementById("demo").innerHTML = "Hello " +
+"Dolly!";
+6. 
