@@ -9,4 +9,8 @@ Some browsers do not allow spaces behind the \ character.
 5. A safer way to break up a string, is to use string addition:
     document.getElementById("demo").innerHTML = "Hello " +
 "Dolly!";
-6. 
+6. JavaScript const variables must be assigned a value when they are declared: 
+
+
+
+shuffle function midium

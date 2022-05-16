@@ -7,3 +7,8 @@
 
 
 2. primitive values, literals values
+3. string replace
+4. charCodeAt() The method returns a UTF-16 code (an integer between 0 and 65535).
+5. https://www.w3schools.com/jsref/jsref_obj_string.asp
+6. indexOf("name", 8)
+7. array for each
