@@ -1,0 +1,27 @@
+A. accessing data
+
+B. methods
+
+    1. Length
+    2. extracting String
+        i.   slice  (positive value, negative value)
+        ii.  substring
+        iii. substr
+    3. content change
+    4. add multiple strings
+    5. padding handle
+    6. number to strings
+    7. find index (2)
+    8. string to array
+
+        search method start
+    9. position find
+    10. last one
+    11. start string
+    12. end string
+    13. match
+    14. includes
+        search method end
+
+    
+
