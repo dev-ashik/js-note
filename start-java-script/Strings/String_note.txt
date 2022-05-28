@@ -1,3 +1,5 @@
+All string methods return a new string. They don't modify the original string.
+
 A. accessing data
 
 B. methods
@@ -7,9 +9,10 @@ B. methods
         i.   slice  (positive value, negative value)
         ii.  substring
         iii. substr
-    3. content change
+    3. content change   
     4. add multiple strings
     5. padding handle
+        space remove
     6. number to strings
     7. find index (2)
     8. string to array
