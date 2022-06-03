@@ -9,11 +9,18 @@ B. methods
         i.   slice  (positive value, negative value)
         ii.  substring
         iii. substr
-    3. content change   
-    4. add multiple strings
-    5. padding handle
+    3. content change  
+    4. padding handle
         space remove
-    6. number to strings
+    5. number to strings
+    6. upper _ lower
+    
+
+    <<done>>
+
+    4. add multiple strings
+    
+    
     7. find index (2)
     8. string to array
 

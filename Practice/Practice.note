@@ -1,0 +1,35 @@
+===> String  <===
+    1. Length
+    2. extracting String
+        (i, ii, iii)
+    3. content change   
+        i. change first one
+        ii. change all
+    4. add multiple strings
+    5. padding handle
+        space remove
+    6. number to strings
+    7. find index (2)
+    8. string to array
+
+        search method start
+    9. position find
+    10. last one
+    11. start string
+    12. end string
+    13. match
+    14. includes
+        search method end
+
+    
+
+
+===> Loop  <===
+    1. for loop
+    2. For in
+    3. for of
+    4. forEach
+    6. while
+    7. do while
+
+    
